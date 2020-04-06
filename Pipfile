@@ -9,6 +9,8 @@ verify_ssl = true
 jupyterlab = "*"
 opencv-contrib-python = "*"
 matplotlib = "*"
+skimage = "*"
+scikit-image = "*"
 
 [requires]
 python_version = "3.8"
