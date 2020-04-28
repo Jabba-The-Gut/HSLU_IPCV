@@ -12,6 +12,7 @@ matplotlib = "*"
 skimage = "*"
 scikit-image = "*"
 sklearn = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.8"
